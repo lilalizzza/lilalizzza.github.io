@@ -1,0 +1,35 @@
+*´{
+    font-family: "Parkinsans", sans-serif;
+}
+
+header{
+    background-color:#e9a2da;
+}
+
+.nav-item a{
+    color: #ffffff;
+}
+
+#boton-perfil{
+    background-color: #a55093;       
+}
+
+
+.boton-cv{
+    background-color: #a55093 ;
+    color: #ffffff;
+}
+
+#app{
+    color: #e9a2da;
+}
+
+
+#contacto{
+    background-color: #e9a2da;
+    color: #ffffff;
+}
+
+#contacto p{
+    color: #ffffff;
+}
